@@ -4,5 +4,8 @@
 
 - Basic Unix Shell commands
 - Install and Configure Git using the Unix Shell
-- Add the learning objectives for this projects
-- Add one additional thing you learned doing this project
+- Basic Git COmmands (add, commit, push, clone)
+- Github overview
+- Markdown language for README files
+- JavaScript ES6+ features
+- Time Management- Meeting a deadline for a project
