@@ -11,8 +11,7 @@ let arrAvg = (arr) => {
 };
 
 // Req. 3c
-
-let arrMax = (arr) => {
+let arrMax =(arr) => {
   var max = arr[0];
   arr.forEach((arr) => {
     if (arr.length > max) {
@@ -32,7 +31,6 @@ sumEvens = (array) => {
 };
 
 //Extra Credit
-
   function alphaPosition(ch){
     return charCodeAt(index);
   }
